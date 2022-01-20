@@ -1,0 +1,33 @@
+    body{
+    background-color: rgb(17, 3, 83);
+    }
+    
+    h1.heading1{
+    color:#e91d1d;
+    text-align: center;
+    outline-style: solid;
+    outline-width: thick;
+    }
+
+    h1.heading2{
+    color:#f73757;
+    text-align: center;
+    }
+
+    p {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    }
+
+    ol{
+    list-style-type:upper-roman;
+    }
+
+    li{
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+    }
+    #ques{
+    color:#ee7186;
+    font-family: "Times New Roman", Times, serif;
+    }
